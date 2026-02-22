@@ -59,10 +59,22 @@ To build a strong foundation in C programming by practicing core concepts and so
 
 ---
 
+## 🛠 How to Compile and Run
+
 Using GCC:
 
-Compile: gcc filename.c -o output
+Compile:
+gcc filename.c -o output
 
-Run: ./output
+Run:
+./output
 
-(For Windows PowerShell) .\output.exe
+(For Windows PowerShell)
+.\output.exe
+
+## 🎯 Current Status
+Actively learning and improving implementation skills.
+
+---
+Consistency > Motivation
+
